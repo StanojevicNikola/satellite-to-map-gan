@@ -24,3 +24,5 @@ Download the dataset and unzip it into your current working directory. This will
 Then, run `prepare_data.py` to compress and prepare downloaded images for training, and `test_preparation.py` to check if all went well.
 
 Training is done by running `train.py` file and all trained models are stored in `models` folder alongside with the example of translation quality at the given time.
+
+Running the `translate_random_picture.py` will select a random image from the training dataset, translate it to a Google map, and plot the result compared to the expected image.
