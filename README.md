@@ -9,7 +9,10 @@ The GAN architecture is comprised of a generator model for outputting new plausi
 
 Model is a type of conditional GAN, or cGAN, where the generation of the output image is conditional on an input, in this case, a source image. The discriminator is provided both with a source image and the target image and must determine whether the target is a plausible transformation of the source image.
 
-The generator is trained via adversarial loss, which encourages the generator to generate plausible images in the target domain. The generator is also updated via L1 loss measured between the generated image and the expected output image. This additional loss encourages the generator model to create plausible translations of the source image.
-
 ![architecture](architecture.png)
 ___
+
+## Usage
+
+The dataset is provided on the Berkley University website and can be downloaded as a 255-megabyte zip file.
+* [Download Maps Dataset (maps.tar.gz)](efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz)
