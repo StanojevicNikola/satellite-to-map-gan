@@ -11,5 +11,5 @@ Model is a type of conditional GAN, or cGAN, where the generation of the output 
 
 The generator is trained via adversarial loss, which encourages the generator to generate plausible images in the target domain. The generator is also updated via L1 loss measured between the generated image and the expected output image. This additional loss encourages the generator model to create plausible translations of the source image.
 
-[architecture](architecture.png)
+![architecture](architecture.png)
 ___
