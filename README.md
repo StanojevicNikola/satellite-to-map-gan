@@ -18,7 +18,6 @@ The dataset is provided on the Berkley University website and can be downloaded 
 * [Download Maps Dataset (maps.tar.gz)](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz)
 
 Download the dataset and unzip it into your current working directory. This will create a directory called “maps” with the following structure:
-
 `maps`<br>
 `├── train`<br>
 `└── val`<br>
