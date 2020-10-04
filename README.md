@@ -15,4 +15,4 @@ ___
 ## Usage
 
 The dataset is provided on the Berkley University website and can be downloaded as a 255-megabyte zip file.
-* [Download Maps Dataset (maps.tar.gz)](efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz)
+* [Download Maps Dataset (maps.tar.gz)](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz)
