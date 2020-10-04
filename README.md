@@ -21,3 +21,4 @@ Download the dataset and unzip it into your current working directory. This will
 `maps`<br>
 `├── train`<br>
 `└── val`<br>
+Then, run `prepare_data.py` to compress and prepare downloaded images for training.
