@@ -1,5 +1,5 @@
 # Satellite to Map GAN
-Project for Computational Intelligence Course, Faculty of Mathematics
+Computational Intelligence Course Project at Faculty of Mathematics
 
 ## Description
 
